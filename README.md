@@ -8,10 +8,10 @@ Fitness tracking app utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose
 npm install
 
 ## Usage 
-Anyone can use the application
+Anyone can use the application.
 
 ## Contributing 
-I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
+Anyone can contribute.
 
 ## Live site: 
 
